@@ -12,7 +12,7 @@
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/lucas-silva95/we-care-project/blob/master/img/mobile&desktop.png?raw=true" width="90%">
+    <img src="https://github.com/lucas-silva95/we-care-project/blob/master/img/mobile_desktop-remove.png?raw=true" width="90%">
 </div>
 
 ## 🌐 Link do projeto
