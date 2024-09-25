@@ -138,11 +138,17 @@ p{
     }
 
     .link-header{
-        font-size: 20px; 
+        font-size: 35px; 
         margin-left: 15px;  
         color:  rgba(152, 157, 156, 1);
         font-weight: 600;
         display: inline-block;
+    }
+
+    .button-log{
+        width: 200px;
+        height: 61px;
+        font-size: 34px;
     }
 
     #all-content{
@@ -189,6 +195,7 @@ p{
     .button-explore{
         width: 350px;
         height: 100px;
+        font-size: 45px;
     }
 
 }
@@ -206,6 +213,21 @@ p{
         color:  rgba(152, 157, 156, 1);
         font-weight: 600;
         display: inline-block;
+    }
+
+    .button-log{
+        width: 130px;
+        height: 41px;
+        border-radius: 50px;
+        margin-left: 24px;
+        background-color:rgba(102, 90, 225, 1);
+        border: none;
+        font-family: "Montserrat", sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        color: rgba(255, 255, 255, 1);
+        cursor: pointer;
+        transition: 0.5s;
     }
 
     #all-content{
@@ -248,8 +270,21 @@ p{
     }
 
     .button-explore{
-        width: 270px;
-        height: 80px;
+        width: 239px;
+        height: 64px;
+        margin-top: 65px;
+        margin-left: 86px;
+        border: none;
+        border-radius: 50px;
+        background-color: rgba(173, 255, 0, 1);
+        font-family: "Montserrat", sans-serif;
+        font-size: 28px;
+        color: rgba(0, 0, 0, 1);
+        line-height: 34.13px;
+        font-weight: 700;
+        box-shadow: 0px 7px 5px 0px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+        transition: 0.5s;
     }
 
 }
