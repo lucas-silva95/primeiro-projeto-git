@@ -138,7 +138,7 @@ p{
     }
 
     .link-header{
-        font-size: 35px; 
+        font-size: 30px; 
         margin-left: 15px;  
         color:  rgba(152, 157, 156, 1);
         font-weight: 600;
@@ -164,7 +164,7 @@ p{
     }
 
     .logo-woman-puppy{
-        width: 100%;
+        width: 90%;
         height: auto;
     }
 
@@ -178,11 +178,11 @@ p{
     }
 
     h1{
-        font-size: 180px;
+        font-size: 150px;
     }
 
     h2{
-        font-size: 100px;
+        font-size: 70px;
     }
 
     p{
