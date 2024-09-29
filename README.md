@@ -16,4 +16,4 @@
 </div>
 
 ## 🌐 Link do projeto
-<a href="https://lucas-silva95.github.io/we-care-project/" target="_blank">We-Care</a>
+<a href="https://lucas-silva95.github.io/we-care-project//" target="_blank">We-Care</a>
